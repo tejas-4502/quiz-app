@@ -1,0 +1,43 @@
+.quizSection,
+.scoreSection {
+  max-width: 400px;
+  margin: 70px auto 60px;
+}
+
+.card,
+.scoreSection {
+  padding: 20px 50px 40px;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 9px );
+  -webkit-backdrop-filter: blur( 9px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.questionSection {
+  padding: 10px;
+  display: block;
+}
+
+.question {
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.optionSection {
+  padding: 10px;
+  display: block;
+}
+
+.scoreSection > img {
+  width: 300px;
+  align-items: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.btns {
+  margin: 20px auto;
+}
