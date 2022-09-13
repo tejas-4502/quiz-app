@@ -20,7 +20,7 @@ const Navbar = () => {
           <li>
           </li>
           <li>
-            <a href="https://github.com/Dipesh107/quizzy" target="_blank">
+            <a href="https://github.com/tejas-4502/quiz-app" target="_blank">
               <Button variant="contained">View On Github</Button>
             </a>
           </li>

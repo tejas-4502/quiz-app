@@ -8,7 +8,7 @@ const Footer = () => {
 
   return (
     <footer className={classes.footer}>
-      &#9400; Copyright {getyear} | DIPESH PATIL | Web Developer
+      &#9400; Copyright {getyear} | Tejas Sonawane | Web Developer
     </footer>
   );
 };
